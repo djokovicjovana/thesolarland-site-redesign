@@ -21,4 +21,4 @@ New version of [thesolarland.com](https://thesolarland.com). A static site (HTML
 
 ## Credits
 
-Fonts: Fraunces and Figtree, SIL Open Font License. Hero photo: generated with Google Flow and marked on the page as an illustrative image.
+Fonts: Fraunces and Figtree, SIL Open Font License. Hero photo: generated with Google Flow.

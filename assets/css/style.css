@@ -133,7 +133,6 @@ p{text-wrap:pretty}
 .hero-photo picture{display:block;width:100%;height:100%}
 .hero-photo img{width:100%;height:100%;object-fit:cover;object-position:50% 55%}
 .hero-photo img.is-broken{display:none}
-.photo-note{position:absolute;right:12px;bottom:12px;font-size:.74rem;font-weight:600;color:var(--ink-700);background:rgba(246,243,234,.82);padding:3px 9px;border-radius:var(--r-pill)}
 .sunpath{position:absolute;left:-6%;top:0;width:112%;height:auto;overflow:visible;pointer-events:none}
 .sunpath .arc{fill:none;stroke:var(--amber-600);stroke-width:.62;stroke-linecap:round;stroke-dasharray:0 2.3;opacity:.95}
 .sunpath .sun{fill:var(--amber-500)}
